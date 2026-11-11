@@ -1,0 +1,22 @@
+{
+  ".gitignore": "37de1a58565b7ee102047b47e27d5545b13b72b42bf86aec5bb4c2e25061783a",
+  "accept_p0.py": "5fe700d92a7702dd472772821a6fb24a3aacf18b660b70a8a37159b5853da78b",
+  "CONJECTURES.md": "8f17c9ff59abea6913c35341f160e22f216b8ba614f6070d29688619c85099cb",
+  "CONTRIBUTIONS.md": "5dff04309da1bf6bf8319732a1936711654c25e5e9c177ede98996f87bf8e224",
+  "EVIDENCE.md": "d3f09b12c0a8e10dc3414d9c2dd9e79d0bf05fa419907971e4c44ebbb8b0df74",
+  "LICENSE": "c6bbabd7bb7ec6c3aa4ae54e466682f869a74d7fb3b8297a7fb1f619050c662b",
+  "README.md": "7a92ae75d6ee96c330cc3cc8157659f24ce22b1dc383284bf6dad0f6d2f908e0",
+  "REPRODUCING.md": "1352f1f5874705200cdb46412af2b8f047381913e135e0adb9171b478682c8c0",
+  "03_实验代码/linear_gaussian_filter.py": "d9a1fd4ba1bc75a310d8ca4d3310cd9eecb865f04d1139b0082de4894a297b1f",
+  "03_实验代码/pilot25_mechanisms.py": "25ecb9edd5e0cd53527888d84a07770811107f2166899f7902bfccfba0450788",
+  "03_实验代码/pilot44_fixed.py": "4956ff93c98da084ded7f303f3026897d43b3898ae818cc095dfc2b73d7606dd",
+  "03_实验代码/pilot44_learning.py": "05cbc4cbcd831659cc8668bf2f9ebca570ee4a18748466bb05ea276fd8b44b54",
+  "evidence/calibration-metrics.csv": "acf3ca34decb388b16b4909320adb0e2d5a90c60d04ec75ca9b1d194e88c7952",
+  "evidence/learning-confirmation.csv": "7e7fa1cd09a6f304b22449574e0714d4c5348b531b574ea38b5bdaf721eab11b",
+  "evidence/learning-curves.csv": "77167fa194594abcc6f219ef44cec3c1f83223ce9bf7ed3dbe4d4ab3ef51e29d",
+  "evidence/p0-audit.json": "b492c2eaa27374069cb1a9e7b11947371234d0d727d9889a0afe2c41543218fc",
+  "evidence/p1-audit.json": "698cdab37c43b2f0bb02f2de957933cfbb0dac9482243fb5c68517acd2b32465",
+  "02_验证阶段/单人流程/参考/PIM实验设计-v1.md": "6ce61c2257920a3402e507d4d356328e2cacceddcd8e643fb7ab31cd98d55900",
+  "evidence/p0-run/result.json": "62e2ea215149a7b060bababf9efadec109cfca64adbad4ee6bcce6db5d6e54fa",
+  "evidence/p1-run/result.json": "a432b4a488fcd24188ac97af497c9c5f27b3b5a6896ef789d6006d775617a86f"
+}

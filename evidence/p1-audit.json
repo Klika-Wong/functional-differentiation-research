@@ -1,0 +1,9 @@
+{
+  "status": "AUDIT_PASS",
+  "result_sha256": "a432b4a488fcd24188ac97af497c9c5f27b3b5a6896ef789d6006d775617a86f",
+  "max_forward_difference": 7.29963114620702e-07,
+  "max_reference_difference": 2.220446049250313e-15,
+  "prediction_groups_checked": 76,
+  "cpu_seconds": 1.765625,
+  "completed_at": "2026-11-10T23:03:10.736249+08:00"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "AUDIT_PASS",
+  "result_sha256": "62e2ea215149a7b060bababf9efadec109cfca64adbad4ee6bcce6db5d6e54fa",
+  "scientific_status": "CONSTRUCTION_GATE_PASS",
+  "max_forward_difference": 1.0040173705760935e-06,
+  "max_reference_difference": 2.220446049250313e-15,
+  "float64_vs_longdouble_proxy": 2.886579864025407e-15,
+  "longdouble_mantissa": 52,
+  "cpu_seconds": 1.015625,
+  "completed_at": "2026-11-10T13:27:43.862213+08:00",
+  "independence": "separate process and numerical paths, same author"
+}
