@@ -1,0 +1,134 @@
+{
+  "status": "AUDIT_PASS",
+  "interventions_checked": 5544,
+  "max_normal_difference": 6.712681948073396e-07,
+  "max_intervention_difference": 1.1850019592252181e-06,
+  "max_reference_difference": 0.0,
+  "match_cases": 0,
+  "invalid_cases": 0,
+  "max_alpha": 0.0,
+  "max_norm_error": 0.0,
+  "candidates_sha256": "89be0c5ec50d1081c369c830c9ea456bc14c11e017bffbe295baa05f4cd2a6cc",
+  "ranking_checks": [
+    {
+      "network": "9701-main",
+      "selected": [
+        454,
+        811
+      ],
+      "scalar_argmax": [
+        454,
+        811
+      ],
+      "independent_forward_argmax": [
+        454,
+        811
+      ],
+      "gaps": [
+        0.025138032790244402,
+        0.02041412143513799
+      ]
+    },
+    {
+      "network": "9701-frozen",
+      "selected": [
+        56,
+        538
+      ],
+      "scalar_argmax": [
+        56,
+        538
+      ],
+      "independent_forward_argmax": [
+        56,
+        538
+      ],
+      "gaps": [
+        0.01843963550553096,
+        0.0016939235234271488
+      ]
+    },
+    {
+      "network": "9701-initial",
+      "selected": [
+        248,
+        675
+      ],
+      "scalar_argmax": [
+        248,
+        675
+      ],
+      "independent_forward_argmax": [
+        248,
+        675
+      ],
+      "gaps": [
+        0.00031428947598022977,
+        0.00032812144088103373
+      ]
+    },
+    {
+      "network": "9702-main",
+      "selected": [
+        529,
+        576
+      ],
+      "scalar_argmax": [
+        529,
+        576
+      ],
+      "independent_forward_argmax": [
+        529,
+        576
+      ],
+      "gaps": [
+        0.01280921512919253,
+        0.09222168839476852
+      ]
+    },
+    {
+      "network": "9702-frozen",
+      "selected": [
+        680,
+        239
+      ],
+      "scalar_argmax": [
+        680,
+        239
+      ],
+      "independent_forward_argmax": [
+        680,
+        239
+      ],
+      "gaps": [
+        0.0401231803986144,
+        0.02578610470841805
+      ]
+    },
+    {
+      "network": "9702-initial",
+      "selected": [
+        199,
+        724
+      ],
+      "scalar_argmax": [
+        199,
+        724
+      ],
+      "independent_forward_argmax": [
+        199,
+        724
+      ],
+      "gaps": [
+        0.001083487550148931,
+        6.63116002336539e-05
+      ]
+    }
+  ],
+  "ranking_stable": true,
+  "result_sha256": "a0d525b9dd13477a97d81d64dbb9bdf294563ef87eefcbe7c51afc50bb48c08b",
+  "artifacts_sha256": "9db4bf275a9df9b60c684834706122b95c4f650f692d74a17e10ff20bfa231a8",
+  "cpu_seconds": 14.921875,
+  "completed_at": "2026-11-14T17:07:02.514042+08:00",
+  "independence": "separate process and NumPy/scalar path; same author"
+}

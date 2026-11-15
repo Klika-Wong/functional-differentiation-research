@@ -1,0 +1,12 @@
+{
+  "status": "ACCEPTED_P2B_PAIRED_CONTROL_PASS",
+  "result_sha256": "1649cb5b318f2b43206979d8b3a49d51dc6c903417d71917ab4c7054b96dd093",
+  "audit_sha256": "0bf0624775935a741b9915ae1fc0586c08d323645cd5b746ce53a80368548938",
+  "lock_sha256": "9634be54b1e234bae4113b6c82ddedcf371dbe7fe95dc6b9dbbce0ec47d80d44",
+  "accepted_by": "Codex",
+  "accepted_at": "2026-11-15T11:46:00.808095+08:00",
+  "old_P2": "MATCHING_INVALID_PRESERVED",
+  "extraction": "NOT_RUN",
+  "reuse": "NOT_RUN",
+  "human_acceptance": "NOT_CLAIMED"
+}

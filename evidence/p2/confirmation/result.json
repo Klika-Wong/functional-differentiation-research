@@ -1,0 +1,439 @@
+{
+  "status": "MATCHING_INVALID",
+  "local_status": "NOT_EVALUATED",
+  "learning_status": "NOT_EVALUATED",
+  "baseline_pass": true,
+  "matching_valid": false,
+  "comparisons": [
+    {
+      "root": 9701,
+      "axis": 0,
+      "main": 2.3164188973640427,
+      "frozen": 0.8991822414616624,
+      "initial": 0.03195549932591826,
+      "threshold": 0.9191822414616624,
+      "passed": true
+    },
+    {
+      "root": 9701,
+      "axis": 1,
+      "main": 0.49481101697992036,
+      "frozen": 0.18333478258838015,
+      "initial": 0.05317347683493534,
+      "threshold": 0.20333478258838014,
+      "passed": true
+    },
+    {
+      "root": 9702,
+      "axis": 0,
+      "main": 1.5006667858101175,
+      "frozen": 0.9305348197054149,
+      "initial": 0.026280689737405133,
+      "threshold": 0.9505348197054149,
+      "passed": true
+    },
+    {
+      "root": 9702,
+      "axis": 1,
+      "main": 0.6165487003295653,
+      "frozen": 0.19309484916846278,
+      "initial": 0.04823080141303112,
+      "threshold": 0.21309484916846277,
+      "passed": true
+    }
+  ],
+  "rows": [
+    {
+      "network": "9701-main",
+      "axis": 0,
+      "delta_target": 2.3903235801394547,
+      "delta_other": 0.07390468277541175,
+      "J": 2.3164188973640427,
+      "Q_same": 1.8014667399642434,
+      "Q_match": 1.8728914782598727,
+      "basic": true,
+      "same_advantage": true,
+      "matched_advantage": true,
+      "matching_valid": true,
+      "local_pass": true
+    },
+    {
+      "network": "9701-main",
+      "axis": 1,
+      "delta_target": 0.6273218464925151,
+      "delta_other": 0.13251082951259474,
+      "J": 0.49481101697992036,
+      "Q_same": 0.07540439212417058,
+      "Q_match": 0.08690249978087088,
+      "basic": true,
+      "same_advantage": true,
+      "matched_advantage": true,
+      "matching_valid": true,
+      "local_pass": true
+    },
+    {
+      "network": "9701-frozen",
+      "axis": 0,
+      "delta_target": 0.880549544141652,
+      "delta_other": -0.01863269732001039,
+      "J": 0.8991822414616624,
+      "Q_same": 0.5911101258420038,
+      "Q_match": 0.6441625528240282,
+      "basic": true,
+      "same_advantage": true,
+      "matched_advantage": true,
+      "matching_valid": true,
+      "local_pass": true
+    },
+    {
+      "network": "9701-frozen",
+      "axis": 1,
+      "delta_target": 0.1809017331564055,
+      "delta_other": -0.0024330494319746354,
+      "J": 0.18333478258838015,
+      "Q_same": 0.09975126777412503,
+      "Q_match": 0.11281856441381696,
+      "basic": true,
+      "same_advantage": true,
+      "matched_advantage": true,
+      "matching_valid": true,
+      "local_pass": true
+    },
+    {
+      "network": "9701-initial",
+      "axis": 0,
+      "delta_target": 0.026082690815841986,
+      "delta_other": -0.005872808510076274,
+      "J": 0.03195549932591826,
+      "Q_same": 0.016769738899066453,
+      "Q_match": 0.02135894459877379,
+      "basic": false,
+      "same_advantage": false,
+      "matched_advantage": false,
+      "matching_valid": true,
+      "local_pass": false
+    },
+    {
+      "network": "9701-initial",
+      "axis": 1,
+      "delta_target": 0.015112495933363262,
+      "delta_other": -0.038060980901572075,
+      "J": 0.05317347683493534,
+      "Q_same": 0.037191729070013904,
+      "Q_match": 0.03710942598784051,
+      "basic": false,
+      "same_advantage": false,
+      "matched_advantage": false,
+      "matching_valid": true,
+      "local_pass": false
+    },
+    {
+      "network": "9702-main",
+      "axis": 0,
+      "delta_target": 1.6272583640940983,
+      "delta_other": 0.12659157828398077,
+      "J": 1.5006667858101175,
+      "Q_same": 0.8716024816482487,
+      "Q_match": 0.9455857774783779,
+      "basic": true,
+      "same_advantage": true,
+      "matched_advantage": true,
+      "matching_valid": true,
+      "local_pass": true
+    },
+    {
+      "network": "9702-main",
+      "axis": 1,
+      "delta_target": 0.7443808668069815,
+      "delta_other": 0.1278321664774162,
+      "J": 0.6165487003295653,
+      "Q_same": 0.22296743939141192,
+      "Q_match": 0.19821499666310724,
+      "basic": true,
+      "same_advantage": true,
+      "matched_advantage": true,
+      "matching_valid": true,
+      "local_pass": true
+    },
+    {
+      "network": "9702-frozen",
+      "axis": 0,
+      "delta_target": 0.9025429545678768,
+      "delta_other": -0.027991865137538003,
+      "J": 0.9305348197054149,
+      "Q_same": 0.6414426144869553,
+      "Q_match": 0.5843628843137179,
+      "basic": true,
+      "same_advantage": true,
+      "matched_advantage": true,
+      "matching_valid": false,
+      "local_pass": null
+    },
+    {
+      "network": "9702-frozen",
+      "axis": 1,
+      "delta_target": 0.2913897446739774,
+      "delta_other": 0.0982948955055146,
+      "J": 0.19309484916846278,
+      "Q_same": 0.07253052464853765,
+      "Q_match": 0.08077001389234181,
+      "basic": true,
+      "same_advantage": true,
+      "matched_advantage": true,
+      "matching_valid": false,
+      "local_pass": null
+    },
+    {
+      "network": "9702-initial",
+      "axis": 0,
+      "delta_target": 0.014618628409923371,
+      "delta_other": -0.011662061327481762,
+      "J": 0.026280689737405133,
+      "Q_same": 0.016960169021455338,
+      "Q_match": 0.015735894396224887,
+      "basic": false,
+      "same_advantage": false,
+      "matched_advantage": false,
+      "matching_valid": false,
+      "local_pass": null
+    },
+    {
+      "network": "9702-initial",
+      "axis": 1,
+      "delta_target": 0.010431124265363216,
+      "delta_other": -0.0377996771476679,
+      "J": 0.04823080141303112,
+      "Q_same": 0.0356324884632694,
+      "Q_match": 0.039693432529458714,
+      "basic": false,
+      "same_advantage": false,
+      "matched_advantage": false,
+      "matching_valid": false,
+      "local_pass": null
+    }
+  ],
+  "normal_rows": [
+    {
+      "root": 9701,
+      "kind": "main",
+      "L": [
+        0.11188885153810844,
+        0.33305783192896815
+      ],
+      "R": [
+        0.11088883266942497,
+        0.331536925843681
+      ],
+      "D": [
+        0.0008497437283638919,
+        0.0014247934340706682
+      ],
+      "Cross": [
+        0.00015027514032032237,
+        9.611265121740455e-05
+      ],
+      "C": [
+        0.23587529558329873,
+        0.9119023188986645
+      ],
+      "ratio_reference": [
+        1.0090182108027477,
+        1.0045874409959519
+      ],
+      "ratio_current": [
+        0.4743559568687226,
+        0.3652341100867179
+      ],
+      "pass_axes": [
+        true,
+        true
+      ]
+    },
+    {
+      "root": 9701,
+      "kind": "frozen",
+      "L": [
+        0.26312363121059484,
+        0.7763032468647006
+      ],
+      "R": [
+        0.11088883266942497,
+        0.331536925843681
+      ],
+      "D": [
+        0.15300223299852708,
+        0.4474091421833246
+      ],
+      "Cross": [
+        -0.0007674344573561344,
+        -0.002642821162306463
+      ],
+      "C": [
+        0.23587529558329873,
+        0.9119023188986645
+      ],
+      "ratio_reference": [
+        2.3728596007048157,
+        2.3415287599991985
+      ],
+      "ratio_current": [
+        1.115520091071485,
+        0.8513008803423908
+      ],
+      "pass_axes": [
+        false,
+        false
+      ]
+    },
+    {
+      "root": 9701,
+      "kind": "initial",
+      "L": [
+        1.0881679557788138,
+        1.0390274287876378
+      ],
+      "R": [
+        0.11088883266942497,
+        0.331536925843681
+      ],
+      "D": [
+        0.9789811757015601,
+        0.713367858822943
+      ],
+      "Cross": [
+        -0.0017020525921702802,
+        -0.005877355878984749
+      ],
+      "C": [
+        0.23587529558329873,
+        0.9119023188986645
+      ],
+      "ratio_reference": [
+        9.813142852921843,
+        3.133971958458519
+      ],
+      "ratio_current": [
+        4.613318885675885,
+        1.1394064991988468
+      ],
+      "pass_axes": [
+        false,
+        false
+      ]
+    },
+    {
+      "root": 9702,
+      "kind": "main",
+      "L": [
+        0.1088275389053868,
+        0.3323453551235504
+      ],
+      "R": [
+        0.10811354927080989,
+        0.3310696704682212
+      ],
+      "D": [
+        0.0006127881503818458,
+        0.0012856666929448003
+      ],
+      "Cross": [
+        0.00010120148419465939,
+        -9.982037615832568e-06
+      ],
+      "C": [
+        0.22898121128799329,
+        0.9100756400822503
+      ],
+      "ratio_reference": [
+        1.00660407173192,
+        1.0038532211468512
+      ],
+      "ratio_current": [
+        0.4752684217768098,
+        0.36518432148509533
+      ],
+      "pass_axes": [
+        true,
+        true
+      ]
+    },
+    {
+      "root": 9702,
+      "kind": "frozen",
+      "L": [
+        0.22152528018590628,
+        0.7708779925569617
+      ],
+      "R": [
+        0.10811354927080989,
+        0.3310696704682212
+      ],
+      "D": [
+        0.11341529520051251,
+        0.44220903040728116
+      ],
+      "Cross": [
+        -3.564285416925355e-06,
+        -0.002400708318535414
+      ],
+      "C": [
+        0.22898121128799329,
+        0.9100756400822503
+      ],
+      "ratio_reference": [
+        2.04900571371508,
+        2.328446430827486
+      ],
+      "ratio_current": [
+        0.9674386773475944,
+        0.8470482656664579
+      ],
+      "pass_axes": [
+        false,
+        false
+      ]
+    },
+    {
+      "root": 9702,
+      "kind": "initial",
+      "L": [
+        1.0843865584771233,
+        1.0355882135634606
+      ],
+      "R": [
+        0.10811354927080989,
+        0.3310696704682212
+      ],
+      "D": [
+        0.9744178023143483,
+        0.7085541744990832
+      ],
+      "Cross": [
+        0.0018552068919684443,
+        -0.004035631403849042
+      ],
+      "C": [
+        0.22898121128799329,
+        0.9100756400822503
+      ],
+      "ratio_reference": [
+        10.03007084487515,
+        3.1280068998735566
+      ],
+      "ratio_current": [
+        4.7357010314408425,
+        1.1379144413423337
+      ],
+      "pass_axes": [
+        false,
+        false
+      ]
+    }
+  ],
+  "interventions": 2316,
+  "extraction": "NOT_RUN",
+  "reuse": "NOT_RUN",
+  "cpu_seconds": 11.84375,
+  "completed_at": "2026-11-14T17:07:53.940840+08:00",
+  "audit": "PENDING"
+}

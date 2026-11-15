@@ -1,0 +1,12 @@
+{
+  "status": "ACCEPTED_P2_RESULT",
+  "scientific_status": "MATCHING_INVALID",
+  "accepted_by": "Codex",
+  "accepted_at": "2026-11-14T17:09:22.822085+08:00",
+  "result_sha256": "3e5687d118771982df83b2fda4c07477eb420d833d34056e08dc20a8a5f98e5b",
+  "audit_sha256": "274492df589767b9c86c922da8e2283db5513179bcc82fa4a51fd70e811e8c91",
+  "discovery_lock_sha256": "ad381161a33efc1b7f472b48923beb2361374d1e3abedd18213d6ef8a6063a4c",
+  "extraction": "NOT_RUN",
+  "reuse": "NOT_RUN",
+  "human_acceptance": "NOT_CLAIMED"
+}

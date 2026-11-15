@@ -1,0 +1,11 @@
+{
+  "status": "AUDIT_PASS",
+  "scientific_status": "P2B_PAIRED_CONTROL_PASS",
+  "result_sha256": "1649cb5b318f2b43206979d8b3a49d51dc6c903417d71917ab4c7054b96dd093",
+  "artifacts_sha256": "4016c516913f0ffe7ef6e4c543af49ee43fcb057e5d771a2d209384ab4ee9479",
+  "interventions": 3852,
+  "max_forward_difference": 1.0594487842574551e-06,
+  "max_reference_difference": 1.7763568394002505e-15,
+  "cpu_seconds": 42.25,
+  "completed_at": "2026-11-15T11:45:17.091261+08:00"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "ACCEPTED_PAIRED_CALIBRATION_PASS",
+  "result_sha256": "6f5b9449018c5ad171ac6361c85c7628ef4df51c8ffdfe5eec81eed00cf6ab3e",
+  "audit_sha256": "a90f163063475420053c7784e6a0e16bcccd32fe4c67211e5ee0ff0d6fed4049",
+  "accepted_at": "2026-11-15T11:39:57.535168+08:00",
+  "accepted_by": "Codex",
+  "positive_conditions": 4,
+  "null_conditions": 4,
+  "real_confirmation": "NOT_RUN",
+  "extraction": "NOT_RUN",
+  "human_acceptance": "NOT_CLAIMED"
+}

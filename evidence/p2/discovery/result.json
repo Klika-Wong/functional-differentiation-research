@@ -1,0 +1,9 @@
+{
+  "status": "DISCOVERY_COMPLETE",
+  "interventions": 5544,
+  "candidates_sha256": "89be0c5ec50d1081c369c830c9ea456bc14c11e017bffbe295baa05f4cd2a6cc",
+  "confirmation": "NOT_RUN",
+  "cpu_seconds": 7.890625,
+  "completed_at": "2026-11-14T17:06:35.946657+08:00",
+  "audit": "PENDING"
+}

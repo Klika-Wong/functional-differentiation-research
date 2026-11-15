@@ -1,0 +1,17 @@
+{
+  "status": "AUDIT_PASS",
+  "interventions_checked": 2316,
+  "max_normal_difference": 8.705266290043312e-07,
+  "max_intervention_difference": 1.1066685301486245e-06,
+  "max_reference_difference": 1.7763568394002505e-15,
+  "match_cases": 6291456,
+  "invalid_cases": 9,
+  "max_alpha": 13.93521963913858,
+  "max_norm_error": 1.9131913431280623e-07,
+  "scientific_status": "MATCHING_INVALID",
+  "result_sha256": "3e5687d118771982df83b2fda4c07477eb420d833d34056e08dc20a8a5f98e5b",
+  "artifacts_sha256": "0d27539a32a263801fe5e4d48616b5b3ef898815cd566a230e4bd37238c14bae",
+  "cpu_seconds": 24.171875,
+  "completed_at": "2026-11-14T17:08:27.291597+08:00",
+  "independence": "separate process and NumPy/scalar path; same author"
+}

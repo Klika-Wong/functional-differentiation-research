@@ -1,0 +1,11 @@
+{
+  "status": "AUDIT_PASS",
+  "scientific_status": "PAIRED_CALIBRATION_PASS",
+  "result_sha256": "6f5b9449018c5ad171ac6361c85c7628ef4df51c8ffdfe5eec81eed00cf6ab3e",
+  "artifacts_sha256": "66f6b908767c796fa0673758149a3b5b8c138cd4fa35b28cce7543b1fc518ac7",
+  "interventions": 2568,
+  "max_forward_difference": 1.2058292293559703e-06,
+  "max_reference_difference": 1.7763568394002505e-15,
+  "cpu_seconds": 6.75,
+  "completed_at": "2026-11-15T11:39:37.113029+08:00"
+}
